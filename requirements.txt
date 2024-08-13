@@ -1,0 +1,10 @@
+mediapipe 
+ffmpeg
+opencv
+python-headless
+python
+anthropic 
+matplotlib 
+requests 
+typing 
+pandas 
